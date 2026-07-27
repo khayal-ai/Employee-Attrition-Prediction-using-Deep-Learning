@@ -36,7 +36,7 @@ The project covers the complete machine learning workflow, including data prepro
 
 ---
 
-## 🧠 Model
+## Model
 
 **Architecture**
 
